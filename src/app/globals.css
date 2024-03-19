@@ -105,3 +105,9 @@ a {
     color-scheme: dark;
   }
 }
+
+.navBar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
